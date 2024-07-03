@@ -1,1 +1,27 @@
-
+return {
+"0", -- SALUNA
+"5e582884-7bf4-49bf-852f-e3ccda5d184f", -- Khôi ngu
+"d68fb01b-c64a-4d39-8627-c88bc5d69bfd", -- Hiếu Trung
+"740d7f62-7d91-4a09-85b9-b37778e1f938", -- Khoa GK
+"1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
+"cc7482e2-9357-40f7-a9b7-237a580f4054", -- Huy Tú 2
+"a4cb5880-52e9-4da6-abc1-d512a580b0f1", -- Nguyễn Anh Tiến
+"728b57cb-e169-470c-ba99-98ff1881b7f0", -- Ka Báo
+"3d863fb5-e210-4cd1-a789-0b43d6cd1bcc", -- Lâm Quốc Bảo
+"a51218be-78e6-452d-a33d-65e94a56429b", -- Anh Long
+"df0a941b-7fd9-45a0-b19c-a6d723418a8e", -- Duy Pham
+"efb12aeb-73f9-42c0-8364-7a20041508a4", -- Trần Minh Đạt
+"903fab9d-d05a-4667-8b81-eae73cf4a7d4", -- Huyy Niee
+"5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
+"b23a2767-bb43-4ebd-beed-a4868f33f411", -- Dương ngu 
+"dd727ae8-5494-498b-9739-d80f625974e2", --Cậu Ngân Hà
+"19b16bae-a361-45eb-9a13-409a6bd0df6c", -- Quang Quý
+"53f26427-6d5c-4333-9a11-89512e4c453b", -- Phan Van Long
+"2497146e-2aa5-4012-84b0-0700176e5cbf", -- Lê Trường Giang
+"581a1c6c-5a45-4ca2-9937-e110b8812ed9",-- Iren UG
+"645f203a-f0df-4667-9e15-34b0b5d49a88", -- Iren UG 2
+"02076234-0f0a-4801-9c84-064f91fa8972", -- Iren UG 3
+"ecaf2cb2-1e3a-46e4-b4a8-f215fb6a6352", -- Minh Phạm
+"be91c443-69ad-449c-888a-cf399df3e996", -- Nguyên Phúc
+"2384296e-d3c2-41ed-b1d5-6d18d5930780" -- Minh Chính
+}
