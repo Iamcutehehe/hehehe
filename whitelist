@@ -1,5 +1,5 @@
 return {
-"0", -- SALUNA
+"af8c5cc2-4100-478a-ab76-dd2990df2d2d", -- SALUNA
 "5e582884-7bf4-49bf-852f-e3ccda5d184f", -- Khôi ngu
 "d68fb01b-c64a-4d39-8627-c88bc5d69bfd", -- Hiếu Trung
 "740d7f62-7d91-4a09-85b9-b37778e1f938", -- Khoa GK
@@ -23,5 +23,6 @@ return {
 "02076234-0f0a-4801-9c84-064f91fa8972", -- Iren UG 3
 "ecaf2cb2-1e3a-46e4-b4a8-f215fb6a6352", -- Minh Phạm
 "be91c443-69ad-449c-888a-cf399df3e996", -- Nguyên Phúc
-"2384296e-d3c2-41ed-b1d5-6d18d5930780" -- Minh Chính
+"2384296e-d3c2-41ed-b1d5-6d18d5930780", -- Minh Chính
+"659b0031-818a-4c91-831d-28f6497c48a7" -- Nguyễn Bin
 }
