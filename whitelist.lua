@@ -17,7 +17,7 @@ return {
 "dd727ae8-5494-498b-9739-d80f625974e2", --Cậu Ngân Hà
 "84eb9e08-c76c-4579-9184-921010ed70de", -- Quang Quý
 "71bba126-65f3-4781-8fbe-b0d6d8a13961", -- Phan Van Long
-"e5af8814-7e0c-406f-8008-e588a47d3042", -- Lê Trường Giang
+"7a384f86-5422-425a-b25d-2362c0074f4b", -- Lê Trường Giang
 "af8c5cc2-4100-478a-ab76-dd2990df2d2d",-- Iren UG
 "645f203a-f0df-4667-9e15-34b0b5d49a88", -- Iren UG 2
 "02076234-0f0a-4801-9c84-064f91fa8972", -- Iren UG 3
