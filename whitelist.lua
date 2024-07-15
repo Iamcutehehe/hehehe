@@ -1,5 +1,5 @@
 return {
-"a9c3eb08-c873-449b-b665-a3d9cb9d8b9e", -- SALUNA
+"a9c3eb08-c873-449b-b665-a3d9cb9d8b9e", -- SALUNA PC
 "5EAEDA42-1992-4E03-9B01-CA26668D8F5E", -- Khôi ngu
 "fb798c4b-5e43-4483-842e-745f9829128a", -- Hiếu Trung
 "740d7f62-7d91-4a09-85b9-b37778e1f938", -- Khoa GK
@@ -18,7 +18,7 @@ return {
 "84eb9e08-c76c-4579-9184-921010ed70de", -- Quang Quý
 "71bba126-65f3-4781-8fbe-b0d6d8a13961", -- Phan Van Long
 "7a384f86-5422-425a-b25d-2362c0074f4b", -- Lê Trường Giang
-"af8c5cc2-4100-478a-ab76-dd2990df2d2d",-- Iren UG
+"df83dbac-0061-42d3-a447-56ed36ae8665",-- Iren PE
 "645f203a-f0df-4667-9e15-34b0b5d49a88", -- Iren UG 2
 "02076234-0f0a-4801-9c84-064f91fa8972", -- Iren UG 3
 "ecaf2cb2-1e3a-46e4-b4a8-f215fb6a6352", -- Minh Phạm
