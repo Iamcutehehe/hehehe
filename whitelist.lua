@@ -23,7 +23,7 @@ return {
 "02076234-0f0a-4801-9c84-064f91fa8972", -- Iren UG 3
 "f7ede965-6885-4e76-8af3-3f79defe275a", -- Minh Phạm
 "074206ec-e588-4c0d-8047-4868133f6480", -- Nguyên Phúc
-"b2afef6d-f12f-4c49-a701-41997651c52e", -- Minh Chính
+"0141e8e0-9fad-48bb-90fa-39b55ee895c0", -- Minh Chính
 "86f16520-1dee-49cd-a3e8-99337b6c539e", -- Nguyễn Bin
 "d79562d2-6790-44bd-b86c-2e55de766695", -- Bùi Đức An
 "02a4ce68-74b6-474b-ae83-ba20a50151b3", -- Trần Huy Quang
