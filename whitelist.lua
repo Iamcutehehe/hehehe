@@ -6,9 +6,9 @@ return {
 "1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
 "cc7482e2-9357-40f7-a9b7-237a580f4054", -- Huy Tú 2
 "a4cb5880-52e9-4da6-abc1-d512a580b0f1", -- Nguyễn Anh Tiến
-"728b57cb-e169-470c-ba99-98ff1881b7f0", -- Ka Báo
+"728b57cb-e169-470c-ba99-98ff1881b7f0", -- Tài Nhớt
 "3d863fb5-e210-4cd1-a789-0b43d6cd1bcc", -- Lâm Quốc Bảo
-"a51218be-78e6-452d-a33d-65e94a56429b", -- Anh Long
+"a51218be-78e6-452d-a33d-65e94a56429b", -- Tạ Khánh
 "df0a941b-7fd9-45a0-b19c-a6d723418a8e", -- Duy Pham
 "be33e01c-7a86-4a69-bf87-9383508c959a", -- Trần Minh Đạt
 "903fab9d-d05a-4667-8b81-eae73cf4a7d4", -- Huyy Niee
