@@ -1,7 +1,7 @@
 return {
 "a9c3eb08-c873-449b-b665-a3d9cb9d8b9e", -- SALUNA PC
 "5EAEDA42-1992-4E03-9B01-CA26668D8F5E", -- Khôi ngu
-"42473613-edb5-4a1c-92ae-dc437d4c2dda", -- Hiếu Trung
+"dfaeed38-0ee2-4fb9-9ef4-1d89970909bc", -- Hiếu Trung
 "740d7f62-7d91-4a09-85b9-b37778e1f938", -- Khoa GK
 "1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
 "cc7482e2-9357-40f7-a9b7-237a580f4054", -- Huy Tú 2
