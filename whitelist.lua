@@ -23,9 +23,9 @@ return {
 "02076234-0f0a-4801-9c84-064f91fa8972", -- Empty
 "dd152e5c-7ad8-492c-a7fb-95a647ed06c8", -- Minh Phạm
 "8f9667a9-466d-47d8-8b3c-ad09862cda0f", -- Nguyên Phúc
-"4d84615f-7035-47e6-99e3-e30dd3830ec1", -- Minh Chính
+"2371332d-6b98-4066-ade7-bac3ca18f7d0", -- Minh Chính
 "af8f157c-a6c0-4ac1-a72a-9ec86d7f59db", -- Nguyễn Bin
 "d79562d2-6790-44bd-b86c-2e55de766695", -- Bùi Đức An
-"3980cd4e-d8ac-4683-b201-baa39d3282f9", -- Trần Huy Quang
+"576186f9-0504-4ad5-b5ce-0ae83eb2a7d2", -- Trần Huy Quang
 "15225890-cb8f-4f63-88cb-5ab789e742bb" -- Nguyễn Văn Bảo Khánh
 }
