@@ -26,6 +26,6 @@ return {
 "4d84615f-7035-47e6-99e3-e30dd3830ec1", -- Minh Chính
 "af8f157c-a6c0-4ac1-a72a-9ec86d7f59db", -- Nguyễn Bin
 "d79562d2-6790-44bd-b86c-2e55de766695", -- Bùi Đức An
-"e31abbae-19ca-4f90-9304-8ccc04fa17f6", -- Trần Huy Quang
+"3980cd4e-d8ac-4683-b201-baa39d3282f9", -- Trần Huy Quang
 "300d7da2-bee8-4f99-aeb2-5efd856c9b06" -- Nguyễn Văn Bảo Khánh
 }
