@@ -1,7 +1,7 @@
 return {
 "3e4e22c4-2834-4deb-887f-3d1891f84471", -- SALUNA PC
 "5EAEDA42-1992-4E03-9B01-CA26668D8F5E", -- Khôi ngu
-"dfaeed38-0ee2-4fb9-9ef4-1d89970909bc", -- Hiếu Trung
+"0", -- Hiếu Trung
 "740d7f62-7d91-4a09-85b9-b37778e1f938", -- Khoa GK
 "1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
 "cc7482e2-9357-40f7-a9b7-237a580f4054", -- Huy Tú 2
@@ -18,14 +18,14 @@ return {
 "9834fe6a-a791-4ff4-865b-a16df74de2dd", -- Trần Dũng
 "049af26a-fa16-4588-b263-df63e2884bf0", -- Phan Van Long
 "b3a9b338-1968-4b68-8c61-3e0ee636e78b", -- Lê Trường Giang
-"a3268f5a-2ae8-44f8-bce3-ff01481515ab",-- Iren PE
-"645f203a-f0df-4667-9e15-34b0b5d49a88", -- Empty
-"02076234-0f0a-4801-9c84-064f91fa8972", -- Empty
+"0",-- Iren PE
+"0", -- Empty
+"0", -- Empty
 "dd152e5c-7ad8-492c-a7fb-95a647ed06c8", -- Minh Phạm
 "5283d1c7-2322-4eab-9447-82dd4472e061", -- Nguyên Phúc
 "02193af8-e0ed-49ea-99e6-65fb0f4aa085", -- Minh Chính
 "af8f157c-a6c0-4ac1-a72a-9ec86d7f59db", -- Nguyễn Bin
 "f214e563-36bd-491f-bf96-340c5fd545a2", -- Bùi Đức An
-"576186f9-0504-4ad5-b5ce-0ae83eb2a7d2", -- Trần Huy Quang
-"afdf294c-73eb-4c5e-b6c9-9d07053f8b08" -- Nguyễn Văn Bảo Khánh
+"0", -- Trần Huy Quang
+"0" -- Nguyễn Văn Bảo Khánh
 }
