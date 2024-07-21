@@ -27,5 +27,6 @@ return {
 "af8f157c-a6c0-4ac1-a72a-9ec86d7f59db", -- Nguyễn Bin
 "f214e563-36bd-491f-bf96-340c5fd545a2", -- Bùi Đức An
 "0", -- Trần Huy Quang
-"0" -- Nguyễn Văn Bảo Khánh
+"0", -- Nguyễn Văn Bảo Khánh
+"225b8a44-b9d1-46cb-9854-bf8c8375a15e" -- 26/07/2024
 }
