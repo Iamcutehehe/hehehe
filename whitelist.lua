@@ -17,7 +17,7 @@ return {
 "dd727ae8-5494-498b-9739-d80f625974e2", --Cậu Ngân Hà
 "9834fe6a-a791-4ff4-865b-a16df74de2dd", -- Trần Dũng
 "049af26a-fa16-4588-b263-df63e2884bf0", -- Phan Van Long
-"1e8eb4f2-2581-4d7d-b998-fb4c4dc17cc1", -- Lê Trường Giang
+"44c84cd0-7641-4a41-ad12-4097cd648d6a", -- Lê Trường Giang
 "0",-- Iren PE
 "0", -- Empty
 "0", -- Empty
