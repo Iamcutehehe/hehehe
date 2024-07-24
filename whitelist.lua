@@ -29,5 +29,5 @@ return {
 "0", -- Trần Huy Quang
 "08983baf-b886-4cfb-b5f3-97f32149b10e", -- Nguyễn Văn Bảo Khánh
 "225b8a44-b9d1-46cb-9854-bf8c8375a15e", -- 26/07/2024
-"70fb818b-2295-4a10-b827-63afdedbd3f5" -- Gia Khánh
+"0" -- Gia Khánh
 }
