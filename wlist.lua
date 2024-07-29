@@ -9,5 +9,6 @@ return {
 1141261219, -- Hiếu Trung
 3966009046, -- Đào Hải Sơn
 3528921703, -- Lê Trường Giang
+323780426, -- Trần Dũng
 1866954212 -- DarkEsper_057
 }
