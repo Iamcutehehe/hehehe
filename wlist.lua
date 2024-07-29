@@ -7,5 +7,6 @@ return {
 0, -- Nguyễn Văn Bảo Khánh
 1865586443, -- Bùi Đức An
 1141261219, -- Hiếu Trung
+3966009046, -- Đào Hải Sơn
 1866954212 -- DarkEsper_057
 }
