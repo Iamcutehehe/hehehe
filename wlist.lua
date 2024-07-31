@@ -11,7 +11,7 @@ return {
 3966009046, -- Đào Hải Sơn
 3528921703, -- Lê Trường Giang
 0, -- Gia Khánh 2
-1141789416, -- Văn Hiếu
+0, -- Văn Hiếu
 323780426, -- Trần Dũng
 2783119783, -- Khôi ngu 1
 1314237464, -- Khôi ngu 2
