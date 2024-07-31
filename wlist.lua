@@ -13,5 +13,9 @@ return {
 0, -- Gia Khánh 2
 1141789416, -- Văn Hiếu
 323780426, -- Trần Dũng
+2783119783, -- Khôi ngu 1
+1314237464, -- Khôi ngu 2
+660629515, -- Khôi ngu 3
+2221231723, -- Khôi ngu 4
 1866954212 -- DarkEsper_057
 }
