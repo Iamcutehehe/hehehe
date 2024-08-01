@@ -2,7 +2,7 @@ return {
 1322815101, -- azpro2k7
 4027558815, -- accquaydffirstsea1
 1423316156, -- ACE_xXAZPROGOD123Xx
-1161468792, -- Minh Phạm
+0, -- Minh Phạm
 451310421, -- Gia Khánh
 5089621002, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
