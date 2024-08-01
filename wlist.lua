@@ -7,7 +7,7 @@ return {
 5089621002, -- Trần Huy Quang
 0, -- Nguyễn Văn Bảo Khánh
 1816684745, -- Bùi Đức An
---1141261219, -- Hiếu Trung
+1141261219, -- Hiếu Trung
 3966009046, -- Đào Hải Sơn
 3528921703, -- Lê Trường Giang
 0, -- Gia Khánh 2
