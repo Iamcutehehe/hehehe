@@ -23,7 +23,7 @@ return {
 "0", -- Văn Hiếu
 "ce6e1730-a983-481b-a930-eb7bdfa94388", -- Minh Phạm
 "e9048c36-3cf2-4805-a20f-df5df379c1ea", -- Nguyên Phúc
-"cc5d6cfc-b7ab-455d-8849-5320c6006a1f", -- Minh Chính
+"b6921b63-49c8-4317-826c-a9ebd0292802", -- Minh Chính
 "f9588228-e58c-4ce2-9244-bb51f2449911", -- Nguyễn Bin
 "0", -- Bùi Đức An
 "0", -- Trần Huy Quang
