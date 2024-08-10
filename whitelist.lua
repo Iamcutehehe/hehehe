@@ -31,7 +31,7 @@ return {
 "0633a34e-e5ce-4b14-a245-873aff6312d0", -- Lê Khánh Đăng
 "0", -- Tuấn Khải
 "02aef171-2e5e-4af8-836a-94b8635bb870", -- Nguyễn Hoài An
-"0", -- Gia Khánh 2
+"05769c27-e8ef-4143-9d66-d69b47bf5af2", -- Gia Khánh 2
 "d9f84082-3f20-4a9a-8043-0544acbea4ce", -- Võ Lâm Huy
 "e4404484-7313-4fa3-8a3d-18725ab42ba6", -- Quang Trung
 "0" -- Gia Khánh
