@@ -28,7 +28,7 @@ return {
 "0", -- Bùi Đức An
 "0", -- Trần Huy Quang
 "617fa03b-16d6-4995-96b5-686718863492", -- Nguyễn Văn Bảo Khánh
-"0633a34e-e5ce-4b14-a245-873aff6312d0", -- Lê Khánh Đăng
+"d0f61a34-c778-4ca3-b7de-b9ea8b199e50", -- Lê Khánh Đăng
 "0", -- Tuấn Khải
 "02aef171-2e5e-4af8-836a-94b8635bb870", -- Nguyễn Hoài An
 "0", -- Gia Khánh 2
