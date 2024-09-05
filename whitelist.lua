@@ -13,7 +13,7 @@ return {
 "be33e01c-7a86-4a69-bf87-9383508c959a", -- Trần Minh Đạt
 "903fab9d-d05a-4667-8b81-eae73cf4a7d4", -- Huyy Niee
 "5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
-"1f600c95-8da0-44ac-9795-8737b7e03e68", -- Dương ngu 
+"0", -- Dương ngu 
 "dd727ae8-5494-498b-9739-d80f625974e2", --Cậu Ngân Hà
 "0", -- Trần Dũng
 "2a055c46-65a0-4b5b-9574-053702ab354c", -- Phan Van Long
