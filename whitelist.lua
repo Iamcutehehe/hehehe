@@ -37,6 +37,6 @@ return {
 "03e030e6-853b-4827-8358-419454836c4c", -- Quang Trung
 "d8604ed0-eef7-4157-a733-12c617e65f02", -- Tran Quoc Anh
 "2314fafd-02e0-4c3d-9e3b-91b9794a0d45", -- Kim Hoang
-"afc8879b-b351-4b40-b341-59c14db0977f", -- Quang Huy
+"6f60e665-7a6e-48dd-b179-faca6143a7b3", -- Quang Huy
 "---" -- Gia Khánh
 }
