@@ -21,7 +21,7 @@ return {
 "c1b3f95e-41b5-4c3b-8c02-cd8f92f58e92", -- Lê Trường Giang 2
 "25cb3892-3dbb-4e2f-a536-1f23b14de04d", -- Iren PE
 "fc9607dd-f077-48ac-bf52-5ea53311780d", -- Văn Hiếu
-"e757b87c-1fe6-4484-a95d-c8ecbcf2e2ff", -- Văn Hiếu 2
+"457ad47c-9642-464e-998e-46209d92c30e", -- Văn Hiếu 2
 --"0", -- Minh Phạm
 "01f18016-fe95-4198-965a-c5c3747f8aba", -- Nguyên Phúc
 "3c906eb3-c9df-43b8-ab03-d695434c194b", -- Minh Chính
@@ -35,7 +35,7 @@ return {
 "0", -- Gia Khánh 2
 "0", -- Võ Lâm Huy
 "03e030e6-853b-4827-8358-419454836c4c", -- Quang Trung
-"ecc08aa9-68e2-482e-955d-f9bffec4f353", -- Tran Quoc Anh
+"efaa202b-d46c-4c03-bccf-07e95c88e027", -- Tran Quoc Anh
 "2314fafd-02e0-4c3d-9e3b-91b9794a0d45", -- Kim Hoang
 "c87bd464-f42f-4cfc-8c50-e9b06c0c4783", -- Quang Huy
 "---" -- Gia Khánh
