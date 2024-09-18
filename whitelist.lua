@@ -31,10 +31,10 @@ return {
 "e535938e-f39a-490c-9131-17bcb21cb2a3", -- Nguyễn Văn Bảo Khánh
 "d0f61a34-c778-4ca3-b7de-b9ea8b199e50", -- Lê Khánh Đăng
 "0", -- Tuấn Khải
-"4340aa8a-909d-4a13-b088-11e0b77591f0", -- Nguyễn Hoài An
+"f8e78dad-96df-4a52-a80c-865b01ef45a8", -- Nguyễn Hoài An
 "0", -- Gia Khánh 2
 "0", -- Võ Lâm Huy
-"3021e587-b19b-4d46-b1fe-f6229539b460", -- Quang Trung
+"f8e78dad-96df-4a52-a80c-865b01ef45a8", -- Quang Trung
 "dfd61e8c-ae69-4dc5-83b7-42828407c988", -- Ly Nhien
 "2314fafd-02e0-4c3d-9e3b-91b9794a0d45", -- Kim Hoang
 "6a895242-b94d-4b5b-8233-4bd92fd78213", -- Quang Huy
