@@ -34,7 +34,7 @@ return {
 "f8e78dad-96df-4a52-a80c-865b01ef45a8", -- Nguyễn Hoài An
 "0", -- Gia Khánh 2
 "0", -- Võ Lâm Huy
-"f8e78dad-96df-4a52-a80c-865b01ef45a8", -- Quang Trung
+"3021e587-b19b-4d46-b1fe-f6229539b460", -- Quang Trung
 "dfd61e8c-ae69-4dc5-83b7-42828407c988", -- Ly Nhien
 "2314fafd-02e0-4c3d-9e3b-91b9794a0d45", -- Kim Hoang
 "6a895242-b94d-4b5b-8233-4bd92fd78213", -- Quang Huy
