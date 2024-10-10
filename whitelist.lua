@@ -20,7 +20,7 @@ return {
 "0", -- Lê Trường Giang
 "20f94b66-74c2-460d-a84a-c9be55db98ef", -- Lê Trường Giang 2
 "25cb3892-3dbb-4e2f-a536-1f23b14de04d", -- Iren PE
-"40d949df-9591-4a1d-bd81-e5003da95a1f", -- Xiao Nima 2
+"e9ecbd1d-5fff-4845-b84f-9d44bd8ffc9b", -- Xiao Nima 2
 "d1075268-650c-480f-af10-a56fefdb804d", -- Văn Hiếu 2
 --"0", -- Minh Phạm
 "01f18016-fe95-4198-965a-c5c3747f8aba", -- Nguyên Phúc
