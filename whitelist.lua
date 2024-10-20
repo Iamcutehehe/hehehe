@@ -20,7 +20,6 @@ return {
 "0", -- Lê Trường Giang
 "aeb271f4-d61d-4912-bdd2-6a8311ad51a1", -- Lê Trường Giang 2
 "25cb3892-3dbb-4e2f-a536-1f23b14de04d", -- Iren PE
-"e9ecbd1d-5fff-4845-b84f-9d44bd8ffc9b", -- Xiao Nima 2
 "d1075268-650c-480f-af10-a56fefdb804d", -- Văn Hiếu 2
 --"0", -- Minh Phạm
 "01f18016-fe95-4198-965a-c5c3747f8aba", -- Nguyên Phúc
@@ -40,7 +39,8 @@ return {
 "8b91e3a1-dbde-42c3-8327-2ecaecebfb83", -- Quang Huy
 "83a2c7c6-32f7-45d2-bfa1-18959488bb2c", -- Hieu Quyet Vu
 "2a937f57-f59a-421d-b459-ef1786de2ed2", -- Phạm Long
-"06c62d03-7228-46ee-b600-fe6b05d5e917", -- Xiao Nima
+"873a539c-bc67-4f3c-9274-f9515058d4c0", -- Xiao Nima
+"e9ecbd1d-5fff-4845-b84f-9d44bd8ffc9b", -- Xiao Nima 2
 "d3605720-8610-4860-a367-39952024e6f7", -- Boredz
 "---" -- Gia Khánh
 }
