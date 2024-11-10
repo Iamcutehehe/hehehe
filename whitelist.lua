@@ -42,5 +42,6 @@ return {
 "3b78d59c-2c4c-4e5c-9f45-94a34e419d42", -- Xiao Nima
 "7cfbb2af-50b8-4f83-a120-47a1c02a664d", -- Xiao Nima 2
 "d3605720-8610-4860-a367-39952024e6f7", -- Boredz
+"f7497d15-d0ce-4538-9fe0-19fad408dc4e", -- Lê Hiếu
 "---" -- Gia Khánh
 }
