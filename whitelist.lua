@@ -45,5 +45,6 @@ return {
 "f7497d15-d0ce-4538-9fe0-19fad408dc4e", -- Lê Hiếu
 "2E749734-0415-44F5-AF9D-385B7F211538", -- Tran Anh Quan
 "F9AFF055-CBEE-4D1C-9C23-B60F63D50726", -- Kiệt Nguyễn
+"f97992c6-dc65-4b02-95b0-cba8bf79dc65", -- Hoàng Nguyễn
 "---" -- Gia Khánh
 }
