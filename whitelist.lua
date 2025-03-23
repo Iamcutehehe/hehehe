@@ -48,5 +48,6 @@ return {
 "3c7ab851-e171-4bce-bf14-0d2b10dcd0f3", -- Hoàng Nguyễn
 "9da1a6e7-0e10-4412-92f9-f1cda68438d4", -- Miya Cqwq
 "CE26CD5E-8BCA-47B9-BDFE-7BFFE6E69FBD", -- Gao Ne Troi
+"8EA68755-D7ED-42BE-A50E-44BF5E757523", -- Thành Đạt
 "---" -- Gia Khánh
 }
