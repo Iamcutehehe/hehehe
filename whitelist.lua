@@ -50,6 +50,6 @@ return {
 "CE26CD5E-8BCA-47B9-BDFE-7BFFE6E69FBD", -- Gao Ne Troi
 "2e1d5b37-a0c1-42a5-a8fc-42fda0595b5d", -- Thành Đạt
 "943CD35C-9C20-4931-9E10-68B4ECBE72E8", -- Hoang Khai
-"7a2c64c0-5336-41b2-a526-9b148943f8f0", -- Nguyễn Đăng
+"4b3ab89d-79cc-446b-afa4-500393f1eef6", -- Nguyễn Đăng
 "---" -- Gia Khánh
 }
