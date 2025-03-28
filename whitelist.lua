@@ -51,5 +51,6 @@ return {
 "2e1d5b37-a0c1-42a5-a8fc-42fda0595b5d", -- Thành Đạt
 "943CD35C-9C20-4931-9E10-68B4ECBE72E8", -- Hoang Khai
 "4b3ab89d-79cc-446b-afa4-500393f1eef6", -- Nguyễn Đăng
+"4B921DF3-2CAB-47DE-8724-9D68DB95475A", -- Nguyen Chuong
 "---" -- Gia Khánh
 }
