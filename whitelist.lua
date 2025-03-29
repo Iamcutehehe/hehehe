@@ -15,7 +15,7 @@ return {
 "5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
 "666F0DF2-E29C-4DF5-86A5-5B82BCD00DEC", -- Dương ngu 
 "7e1a60ec-f7f4-4ec4-8f46-def743bb6809", --Cậu Ngân Hà
-"854ad8b8-b4b5-40d1-8254-9a670ef44051", -- Trần Dũng
+"3877ff18-db20-4420-a719-01f8e4169537", -- Trần Dũng
 "2a055c46-65a0-4b5b-9574-053702ab354c", -- Phan Van Long
 "0", -- Lê Trường Giang
 "0", -- Lê Trường Giang 2
@@ -50,7 +50,7 @@ return {
 "CE26CD5E-8BCA-47B9-BDFE-7BFFE6E69FBD", -- Gao Ne Troi
 "2e1d5b37-a0c1-42a5-a8fc-42fda0595b5d", -- Thành Đạt
 "943CD35C-9C20-4931-9E10-68B4ECBE72E8", -- Hoang Khai
-"4b3ab89d-79cc-446b-afa4-500393f1eef6", -- Nguyễn Đăng
+"781adb84-84a7-4988-8b74-762dc550f000", -- Nguyễn Đăng
 "4B921DF3-2CAB-47DE-8724-9D68DB95475A", -- Nguyen Chuong
 "---" -- Gia Khánh
 }
