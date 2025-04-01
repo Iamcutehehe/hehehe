@@ -15,7 +15,7 @@ return {
 "5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
 "666F0DF2-E29C-4DF5-86A5-5B82BCD00DEC", -- Dương ngu 
 "7e1a60ec-f7f4-4ec4-8f46-def743bb6809", --Cậu Ngân Hà
-"3877ff18-db20-4420-a719-01f8e4169537", -- Trần Dũng
+"05dcf95f-c9fa-4d7a-974b-53c6af3d8d07", -- Trần Dũng
 "2a055c46-65a0-4b5b-9574-053702ab354c", -- Phan Van Long
 "0", -- Lê Trường Giang
 "0", -- Lê Trường Giang 2
