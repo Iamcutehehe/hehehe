@@ -3,7 +3,7 @@ return {
 "66992A4C-AFCD-401F-9735-3D65C57E9524", -- Khôi ngu
 "9F31849C-5D9F-419D-B9FD-223C134395E3", -- Ech ngu
 "0", -- Hiếu Trung
-"2299c988-082b-4be5-92e1-e716932b693f", -- Khoa GK
+"04902ade-38da-4a55-9528-21bc2eebd8a1", -- Khoa GK
 "1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
 "cc7482e2-9357-40f7-a9b7-237a580f4054", -- Huy Tú 2
 "48F7DADA-B054-4CD5-9DD0-EE855B5543BD", -- Nguyễn Anh Tiến
