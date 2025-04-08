@@ -41,7 +41,7 @@ return {
 "83a2c7c6-32f7-45d2-bfa1-18959488bb2c", -- Hieu Quyet Vu
 "2a937f57-f59a-421d-b459-ef1786de2ed2", -- Phạm Long
 "76953d87-32ed-4be1-9295-bdd4ec5cbed4", -- Xiao Nima
-"86e2beed-5122-45ad-9cc8-1f73865580f3", -- Xiao Nima 2
+"c2267a2d-c5e4-4e06-9916-679c4256bceb", -- Xiao Nima 2
 "d3605720-8610-4860-a367-39952024e6f7", -- Boredz
 "f7497d15-d0ce-4538-9fe0-19fad408dc4e", -- Lê Hiếu
 "2E749734-0415-44F5-AF9D-385B7F211538", -- Tran Anh Quan
