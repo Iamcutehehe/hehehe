@@ -1,7 +1,5 @@
 return {
 "C2FBC6E4-B9E2-401B-B3F2-22E3EE8A0112", -- SALUNA PC
-"66992A4C-AFCD-401F-9735-3D65C57E9524", -- Khôi ngu
-"9F31849C-5D9F-419D-B9FD-223C134395E3", -- Ech ngu
 "0", -- Hiếu Trung
 "04902ade-38da-4a55-9528-21bc2eebd8a1", -- Khoa GK
 "1eac697e-e753-45cf-bb54-f491e8ba1007", -- Huy Tú
@@ -14,7 +12,6 @@ return {
 "be33e01c-7a86-4a69-bf87-9383508c959a", -- Trần Minh Đạt
 "903fab9d-d05a-4667-8b81-eae73cf4a7d4", -- Huyy Niee
 "5d3460fc-c76c-45d6-bba5-d96e8c3c712f", -- Huyy Niee 2
-"666F0DF2-E29C-4DF5-86A5-5B82BCD00DEC", -- Dương ngu 
 "7e1a60ec-f7f4-4ec4-8f46-def743bb6809", --Cậu Ngân Hà
 "6c500713-fada-4f97-99d8-4e0e0637e44a", -- Trần Dũng
 "2a055c46-65a0-4b5b-9574-053702ab354c", -- Phan Van Long
