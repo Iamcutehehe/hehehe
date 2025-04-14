@@ -57,5 +57,6 @@ return {
 "813b70b3-62b5-4b70-87dd-12df9d692fcf", --Bảo Quốc
 "99e2c975-f42c-49e3-b508-7934f0875315", -- Dương Văn Nguyên🌼
 "1FA3C133-E8EC-4FEF-96DA-84B587455F38", -- Nguyễn Hữu Duy
+"1B3552FE-9F0E-4563-A9B2-F1DA02F01751", -- Nguyễn Minh Nhật
 "---" -- Gia Khánh
 }
