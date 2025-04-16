@@ -1,5 +1,5 @@
 return {
-    { excutorid = "C2FBC6E4-B9E2-401B-B3F2-22E3EE8A0112", name = "SALUNA PC" },
+    { excutorid = "C2FBC6E4-B9E2-401B-B3F2-22E3EE8A0112", name = "Your Boss Is Here" },
     { excutorid = "0", name = "Hiếu Trung" },
     { excutorid = "796ef1ef-cf33-4707-b647-e16838ac0be0", name = "Khoa GK" },
     { excutorid = "1eac697e-e753-45cf-bb54-f491e8ba1007", name = "Huy Tú" },
@@ -17,7 +17,7 @@ return {
     { excutorid = "2a055c46-65a0-4b5b-9574-053702ab354c", name = "Phan Van Long" },
     { excutorid = "0", name = "Lê Trường Giang" },
     { excutorid = "0", name = "Lê Trường Giang 2" },
-    { excutorid = "25cb3892-3dbb-4e2f-a536-1f23b14de04d", name = "Iren PE" },
+    { excutorid = "25cb3892-3dbb-4e2f-a536-1f23b14de04d", name = "Your Boss Is Here" },
     { excutorid = "d1075268-650c-480f-af10-a56fefdb804d", name = "Văn Hiếu 2" },
     { excutorid = "01f18016-fe95-4198-965a-c5c3747f8aba", name = "Nguyên Phúc" },
     { excutorid = "3c906eb3-c9df-43b8-ab03-d695434c194b", name = "Minh Chính" },
